@@ -1,0 +1,10 @@
+.btn-custom {
+    background-color: #be111f;
+    color: black;
+    /* Add additional styles as needed */
+  }
+
+  .social-media-list li {
+    display: inline-block;
+    margin-right: 15px;
+  }
